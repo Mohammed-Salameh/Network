@@ -1,30 +1,59 @@
+Root Guard & Loop Guard STP:
+
+Spanning Tree Protocol (STP) features like Root Guard and Loop Guard can both be configured on a port, but it's essential to understand their functions and when it makes sense to use both.
+
+Root Guard:
+Root Guard ensures that the port on which it's enabled will never be used to reach the root bridge. If a superior BPDU (Bridge Protocol Data Unit) 
+is received on a Root Guard-enabled port, the port is moved to a "root-inconsistent" state and will 
+not forward traffic. This is a protective measure to make sure that the topology doesn't change unexpectedly because of a new switch or misconfiguration.
+
+Root Guard:
+Root Guard ensures that the port on which it's enabled will never be used to reach the root bridge. If a superior BPDU (Bridge Protocol Data Unit) 
+is received on a Root Guard-enabled port, the port is moved to a "root-inconsistent" state and will not forward traffic.
+This is a protective measure to make sure that the topology doesn't change unexpectedly because of a new switch or misconfiguration.
+
 interface GigabitEthernet0/1
  spanning-tree guard loop
+spanning-tree guard root
 interface GigabitEthernet0/2
  spanning-tree guard root
+spanning-tree guard loop
 interface GigabitEthernet0/3
  spanning-tree guard loop
+spanning-tree guard root
 interface GigabitEthernet1/0
  spanning-tree guard root
+spanning-tree guard loop
 interface GigabitEthernet1/1
  spanning-tree guard root
+spanning-tree guard loop
  interface GigabitEthernet1/2
  spanning-tree guard root
+spanning-tree guard loop
  interface GigabitEthernet1/3
  spanning-tree guard root
+ spanning-tree guard loop
  interface GigabitEthernet2/0
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet2/1
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet2/2
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet2/3
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet3/0
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet3/1
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet3/2
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
   interface GigabitEthernet3/3
- spanning-tree guard root
+  spanning-tree guard root
+  spanning-tree guard loop
