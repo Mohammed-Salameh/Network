@@ -1,0 +1,30 @@
+interface GigabitEthernet0/1
+ spanning-tree guard loop
+interface GigabitEthernet0/2
+ spanning-tree guard root
+interface GigabitEthernet0/3
+ spanning-tree guard loop
+interface GigabitEthernet1/0
+ spanning-tree guard root
+interface GigabitEthernet1/1
+ spanning-tree guard root
+ interface GigabitEthernet1/2
+ spanning-tree guard root
+ interface GigabitEthernet1/3
+ spanning-tree guard root
+ interface GigabitEthernet2/0
+ spanning-tree guard root
+  interface GigabitEthernet2/1
+ spanning-tree guard root
+  interface GigabitEthernet2/2
+ spanning-tree guard root
+  interface GigabitEthernet2/3
+ spanning-tree guard root
+  interface GigabitEthernet3/0
+ spanning-tree guard root
+  interface GigabitEthernet3/1
+ spanning-tree guard root
+  interface GigabitEthernet3/2
+ spanning-tree guard root
+  interface GigabitEthernet3/3
+ spanning-tree guard root
