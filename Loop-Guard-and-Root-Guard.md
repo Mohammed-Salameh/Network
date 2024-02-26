@@ -1,7 +1,3 @@
-Root Guard & Loop Guard STP:
-
-Spanning Tree Protocol (STP) features like Root Guard and Loop Guard can both be configured on a port, but it's essential to understand their functions and when it makes sense to use both.
-
 Root Guard:
 Root Guard ensures that the port on which it's enabled will never be used to reach the root bridge. If a superior BPDU (Bridge Protocol Data Unit) 
 is received on a Root Guard-enabled port, the port is moved to a "root-inconsistent" state and will 
