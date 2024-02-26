@@ -1,5 +1,3 @@
-When working with network configurations, especially in environments where Cisco switches and similar networking equipment are used, two important features you might encounter are Loop Guard and Root Guard. Both are used to enhance the stability and reliability of the network, particularly in relation to spanning tree protocol (STP) operations. Understanding when and how to use each can significantly impact network performance and stability.
-
 ### Loop Guard
 
 Loop Guard is a feature used to prevent looping in the network in the absence of received spanning tree protocol (STP) BPDUs (Bridge Protocol Data Units). Loop Guard is typically used in conjunction with PortFast and BPDU Guard to enhance network stability and reliability.
