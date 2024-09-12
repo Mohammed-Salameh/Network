@@ -76,7 +76,7 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
 
 ---
 
-### **Key Concepts for Network+ Exam**:
+### **Key Concepts**:
 
 - **Physical Topology**: The actual layout of the network devices and cables (e.g., star, bus, ring, mesh).
 - **Logical Topology**: The way data flows through the network, regardless of its physical design. For example, a star network physically may have a **bus logical topology**.
