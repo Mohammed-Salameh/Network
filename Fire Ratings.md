@@ -1,4 +1,4 @@
-### **1. Fire Ratings for Network Cables**
+Fire Ratings for Network Cables**
 
 Understanding fire ratings is crucial for ensuring safety and compliance in network installations. Different ratings are used to designate how well cables resist fire and how they should be installed.
 
@@ -23,7 +23,7 @@ Understanding fire ratings is crucial for ensuring safety and compliance in netw
 - **Cost**: Generally the least expensive due to the absence of special fire-resistant materials.
 - **Typical Cable Types**: Standard Ethernet cables with PVC insulation.
 
-### **2. Summary for Network+**
+### **Summary**
 
 - **Plenum-rated Cables**:
   - **Usage**: For plenum spaces (air circulation areas).
