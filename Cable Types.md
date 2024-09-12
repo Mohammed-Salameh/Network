@@ -74,7 +74,7 @@ Coaxial cable, often referred to simply as "coax," is used in older networking a
 
 ---
 
-### **3. Differences Between Coaxial and Twinaxial Cables**
+### **Differences Between Coaxial and Twinaxial Cables**
 
 | Feature            | Coaxial Cable                       | Twinaxial Cable                     |
 |--------------------|-------------------------------------|-------------------------------------|
