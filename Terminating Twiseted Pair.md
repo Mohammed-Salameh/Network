@@ -1,4 +1,4 @@
-### **Twisted Pair Cable Types and Standards**
+### <h1>Twisted Pair Cable Types and Standards</h1>
 
 Twisted pair cables are widely used for networking due to their ability to reduce electromagnetic interference through the twisting of pairs. They come in various categories, each supporting different speeds and bandwidths.
 
