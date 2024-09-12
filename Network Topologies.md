@@ -18,7 +18,7 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
 
 ### **2. Star Topology**
 
-![star toplogy](https://github.com/user-attachments/assets/c5169bb9-95e2-4b85-8217-d62f8e85f916)
+![image](https://github.com/user-attachments/assets/aa2d8a5f-dd5d-4603-ae3c-1661ffc1fdfd)
 
    - **Physical Layout**: All devices are connected to a central device (switch or hub).
    - **Data Flow**: Data passes through the central device, which directs it to the appropriate recipient.
