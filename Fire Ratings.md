@@ -1,4 +1,4 @@
-**Fire Ratings for Network Cables**
+<h1>Fire Ratings for Network Cables</h1>
 
 Understanding fire ratings is crucial for ensuring safety and compliance in network installations. Different ratings are used to designate how well cables resist fire and how they should be installed.
 
