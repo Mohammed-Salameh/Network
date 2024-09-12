@@ -88,7 +88,7 @@ Coaxial cable, often referred to simply as "coax," is used in older networking a
 
 ---
 
-### **Summary for Network+**:
+### **Summary**:
 
 - **Coaxial Cable**:
   - Used for TV, broadband, and older Ethernet standards.
