@@ -36,7 +36,7 @@ Both standards define color codes for eight wires (four pairs) used in Ethernet 
 - **TIA/EIA-568B**: Commonly used in commercial environments.
 - The color-coding helps in proper installation and troubleshooting by ensuring the correct pairing of wires.
 
-### **2. Crossover Cables**
+### **Crossover Cables**
 
 A **crossover cable** is used to connect two similar devices directly, without needing an intermediary device like a hub or switch. It achieves this by crossing over the transmit (TX) and receive (RX) lines.
 
