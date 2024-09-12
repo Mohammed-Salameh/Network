@@ -3,6 +3,9 @@
 Network topology refers to the arrangement of devices (or nodes) in a network, including how they are interconnected and how data flows between them. There are several types of topologies you need to be familiar with, including **physical** and **logical** topologies.
 
 ### **1. Bus Topology**
+
+![bus topology](https://github.com/user-attachments/assets/7d1a7f0d-35de-4c65-ad66-3ce493eda1bb)
+
    - **Physical Layout**: All devices are connected to a single central cable (the bus).
    - **Data Flow**: Data sent from one device travels in both directions along the bus and is received by all devices until it reaches the intended recipient.
    - **Key Points**:
