@@ -1,4 +1,6 @@
-***Bus Topology***
+<h1>Network Topologies</h1>
+
+<h2>Bus Topology</h2>
 
 A **bus topology** is a network setup where all devices (nodes) are connected to a single central cable, known as the "bus." This central cable acts as the shared communication medium through which all data travels. It was one of the earliest network topologies used in computer networks, but it is rarely used today due to its limitations compared to more modern topologies like star or mesh.
 
