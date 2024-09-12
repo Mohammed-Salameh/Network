@@ -1,4 +1,4 @@
-A **bus topology** is a network setup where all devices (nodes) are connected to a single central cable, known as the "bus." This central cable acts as the shared communication medium through which all data travels. It was one of the earliest network topologies used in computer networks, but it is rarely used today due to its limitations compared to more modern topologies like star or mesh.
+<p> A **bus topology** is a network setup where all devices (nodes) are connected to a single central cable, known as the "bus." This central cable acts as the shared communication medium through which all data travels. It was one of the earliest network topologies used in computer networks, but it is rarely used today due to its limitations compared to more modern topologies like star or mesh.
 
 ### **Key Characteristics of Bus Topology:**
 
@@ -47,4 +47,5 @@ Bus topology was widely used in the early days of Ethernet networking, particula
 In the diagram above, all devices are connected to the single bus. If one device sends data, it travels along the bus, and each device listens to see if the message is intended for them.
 
 ### **Summary**:
-Bus topology is a simple, cost-effective network design ideal for small networks, but it suffers from performance and reliability issues as the network grows. For this reason, it has been largely replaced by other topologies in modern networks.
+Bus topology is a simple, cost-effective network design ideal for small networks, but it suffers from performance and reliability issues as the network grows. For this reason, it has been largely replaced by other topologies in modern networks.</p>
+
