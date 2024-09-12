@@ -29,6 +29,10 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
    - **Example**: Most modern Ethernet networks (using switches or hubs).
 
 ### **3. Ring Topology**
+
+![ring toplogy](https://github.com/user-attachments/assets/afbf397d-5260-4d6a-8cd6-3db95119068a)
+
+
    - **Physical Layout**: Devices are connected in a closed loop, where each device is connected to two other devices, forming a ring.
    - **Data Flow**: Data travels in one direction (unidirectional) or both directions (bidirectional) around the ring until it reaches the recipient.
    - **Key Points**:
