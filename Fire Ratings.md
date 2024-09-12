@@ -1,5 +1,3 @@
-Here’s a detailed breakdown of **fire ratings** for network cables, as it would appear in a **CompTIA Network+** context:
-
 ### **1. Fire Ratings for Network Cables**
 
 Understanding fire ratings is crucial for ensuring safety and compliance in network installations. Different ratings are used to designate how well cables resist fire and how they should be installed.
@@ -44,5 +42,3 @@ Understanding fire ratings is crucial for ensuring safety and compliance in netw
   - **Fire Resistance**: Minimal fire resistance, can emit toxic fumes.
   - **Cost**: Least expensive.
   - **Typical Application**: Residential, non-critical installations.
-
-Understanding these fire ratings ensures compliance with safety codes and regulations and helps in choosing the appropriate cable type for different installation environments. This knowledge is essential for the **CompTIA Network+** exam, where proper cable management and safety considerations are key topics.
