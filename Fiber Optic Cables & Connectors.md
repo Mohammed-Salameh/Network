@@ -64,7 +64,7 @@ Fiber optic connectors require precise polishing to ensure optimal performance a
 - **Polishing**: The angled end face reduces back reflections and signal loss.
 - **Usage**: Provides the highest quality connection with minimal signal loss and is used in high-precision applications.
 
-### **Summary **
+### **Summary**
 
 - **Fiber Optic Cables**:
   - **Multi-Mode**: Uses LEDs, orange color, larger core, short-distance applications.
