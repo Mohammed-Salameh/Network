@@ -87,5 +87,3 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
 | **Hybrid**    | Flexible, scalable                        | Complexity depends on the combined topologies | Large enterprise networks                        |
 | **Point-to-Point** | Simple, efficient for two devices   | Limited scalability                        | Direct links, WAN links                          |
 | **Point-to-Multipoint** | Centralized management          | Central device as a single point of failure | Wireless and some WAN connections                |
-
-Understanding these topologies will help you analyze and design networks according to different use cases, which is essential for the **CompTIA Network+** exam.
