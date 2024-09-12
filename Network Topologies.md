@@ -1,4 +1,6 @@
-In the **CompTIA Network+** exam, network topologies are fundamental concepts. Network topology refers to the arrangement of devices (or nodes) in a network, including how they are interconnected and how data flows between them. There are several types of topologies you need to be familiar with, including **physical** and **logical** topologies.
+<h1>Network Topologies</h1>
+
+Network topology refers to the arrangement of devices (or nodes) in a network, including how they are interconnected and how data flows between them. There are several types of topologies you need to be familiar with, including **physical** and **logical** topologies.
 
 ### **1. Bus Topology**
    - **Physical Layout**: All devices are connected to a single central cable (the bus).
