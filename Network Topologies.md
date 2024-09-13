@@ -31,7 +31,7 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
 
 ### **3. Ring Topology**
 
-![ring toplogy](https://github.com/user-attachments/assets/afbf397d-5260-4d6a-8cd6-3db95119068a)
+![image](https://github.com/user-attachments/assets/d97bf09f-3295-4021-baaf-b9eabcf57380)
 
 
    - **Physical Layout**: Devices are connected in a closed loop, where each device is connected to two other devices, forming a ring.
