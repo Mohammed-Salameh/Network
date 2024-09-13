@@ -43,6 +43,10 @@ Network topology refers to the arrangement of devices (or nodes) in a network, i
    - **Example**: Fiber Distributed Data Interface (FDDI), some legacy networks.
 
 ### **4. Mesh Topology**
+
+![image](https://github.com/user-attachments/assets/9971c947-0efc-444e-9c60-31fdeedcbb53)
+
+
    - **Physical Layout**: Every device is connected to every other device, either partially (some devices connected) or fully (every device connected to every other device).
    - **Data Flow**: Data can take multiple paths to reach its destination, providing redundancy.
    - **Key Points**:
